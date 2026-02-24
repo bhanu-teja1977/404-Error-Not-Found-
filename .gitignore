@@ -1,0 +1,18 @@
+# ─── Frontend ───
+drishyamitra-frontend/node_modules/
+drishyamitra-frontend/dist/
+drishyamitra-frontend/.vite/
+
+# ─── Backend ───
+drishyamitra-backend/instance/
+drishyamitra-backend/uploads/
+drishyamitra-backend/__pycache__/
+drishyamitra-backend/**/__pycache__/
+drishyamitra-backend/venv/
+drishyamitra-backend/.env
+
+# ─── General ───
+*.pyc
+.DS_Store
+Thumbs.db
+.env
